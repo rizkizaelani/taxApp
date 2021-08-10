@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Single",
+        "code": "TK0",
+        "amount": 54000000
+    },
+    {
+        "id": 1,
+        "name": "Married with no dependant",
+        "code": "K0",
+        "amount": 58500000
+    },
+    {
+        "id": 1,
+        "name": "Married with 1 dependant",
+        "code": "K1",
+        "amount": 63000000
+    },
+    {
+        "id": 1,
+        "name": "Married with 2 dependants",
+        "code": "K2",
+        "amount": 67500000
+    },
+    {
+        "id": 1,
+        "name": "Married with 3 dependants",
+        "code": "K3",
+        "amount": 67000000
+    }
+]

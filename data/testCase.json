@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "monthlySalary": 25000000,
+        "marriageStatus": "TK0"
+    },
+    {
+        "id": 2,
+        "monthlySalary": 6500000,
+        "marriageStatus": "K1"
+    },
+    {
+        "id": 3,
+        "monthlySalary": 50000000,
+        "marriageStatus": "TK0"
+    }
+]
